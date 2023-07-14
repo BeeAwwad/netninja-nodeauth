@@ -1,9 +1,5 @@
-POST http://localhost:3000/login
-
+POST http://localhost:3000/signup
 Content-Type: application/json
-
-Host: localhost
-User-Agent: Rest/1.0
 
 {
   "email": "aosalihu@gmail.com",
