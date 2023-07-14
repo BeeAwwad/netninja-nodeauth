@@ -1,0 +1,11 @@
+POST http://localhost:3000/login
+
+Content-Type: application/json
+
+Host: localhost
+User-Agent: Rest/1.0
+
+{
+  "email": "aosalihu@gmail.com",
+  "password": "shehu2014"
+}
